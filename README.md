@@ -16,10 +16,6 @@ Graphics Programmer in Training • OpenGL • C/C++ • Real-Time Rendering
 Name: Ayssa Djennad
 Class: Graphics Programmer
 Level: Junior
-Guild: 42 Paris
-
-Main Weapon: C++
-Secondary Weapon: OpenGL
 
 Special Skill:
   - Rendering Things Until They Work™
