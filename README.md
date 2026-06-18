@@ -1,21 +1,51 @@
-# Ayssa Djennad
+<h1 align="center">Ayssa Djennad</h1>
 
-### Graphics Programmer | OpenGL | C/C++ | Computer Graphics
-
-Passionate about real-time rendering, graphics programming and game engine technologies.
-
-Currently studying at 42 Paris and focusing on:
-
-- OpenGL
-- GLSL
-- Rendering Pipelines
-- Linear Algebra
-- GPU Programming
-- Computer Graphics
+<p align="center">
+Graphics Programmer in Training • OpenGL • C/C++ • Real-Time Rendering
+</p>
 
 ---
 
-## Tech Stack
+## STATUS
+
+```yaml
+Name: Ayssa Djennad
+Class: Graphics Programmer
+Level: Junior
+Guild: 42 Paris
+
+Main Weapon: C++
+Secondary Weapon: OpenGL
+
+Special Skill:
+  - Rendering Things Until They Work™
+
+Current Quest:
+  - Build a strong graphics programming foundation
+
+Final Boss:
+  - Graphics Programmer / Rendering Engineer
+```
+
+---
+
+## About Me
+
+Passionate about computer graphics, real-time rendering and game engine technologies.
+
+Currently studying at **42 Paris**, where I focus on:
+
+- OpenGL & GLSL
+- Rendering Pipelines
+- GPU Programming
+- Linear Algebra
+- Real-Time Graphics
+
+I enjoy understanding how game engines work under the hood and building graphics systems from scratch.
+
+---
+
+## Combat Skills
 
 ### Languages
 
@@ -30,26 +60,32 @@ Currently studying at 42 Paris and focusing on:
 ![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender)
 
+### Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
 ---
 
-## Featured Projects
+## Quest Log
 
 ### So_long
 
 My very first game project.
 
-- 2D game engine
-- Event-driven programming
+- 2D gameplay programming
+- Event-driven architecture
 - Sprite rendering
-- Path validation
+- Map validation and pathfinding logic
 
 ### Cub3D
 
-A Wolfenstein-inspired raycasting engine written in C.
+Wolfenstein-inspired raycasting engine.
 
 - Raycasting
 - Texture mapping
-- Collision system
+- Collision handling
 - Real-time rendering
 
 ### Scop
@@ -61,14 +97,44 @@ A Wolfenstein-inspired raycasting engine written in C.
 - MVP matrices
 - GPU rendering pipeline
 
+### Matrix
+
+Mathematics library built from scratch.
+
+- Linear algebra
+- Matrix operations
+- 3D transformations
+- Vector calculations
+
 ---
 
-## Current Goals
+## Current Quests
 
 - Learn Unreal Engine
-- Learn Vulkan
 - Improve Blender workflow
+- Study Vulkan
 - Build a complete rendering engine
+- Improve GPU programming knowledge
+
+---
+
+## Boss Fight
+
+My long-term objective is to become a:
+
+**Graphics Programmer**
+or
+**Rendering Engineer**
+
+working on rendering systems, graphics engines and real-time technologies.
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Nadekko&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadekko&layout=compact&theme=tokyonight)
 
 ---
 
@@ -76,3 +142,7 @@ A Wolfenstein-inspired raycasting engine written in C.
 
 - GitHub: github.com/Nadekko
 - LinkedIn: linkedin.com/in/anyssa-djennad
+
+```
+"Every frame rendered is another step toward understanding how games really work."
+```
