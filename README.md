@@ -49,22 +49,22 @@ I enjoy understanding how game engines work under the hood and building graphics
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-1E1E1E?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 
-### Graphics
+#### Graphics
 
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl)
-![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-4B6E8C?style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
-### Tools
+#### Tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-2D2D2D?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
