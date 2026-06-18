@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Nadekko/Nadekko/main/banners/r_banner.png" />
-</p>
+</p> -->
 
 <h1 align="center">Ayssa Djennad</h1>
 
