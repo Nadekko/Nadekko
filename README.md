@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nadekko/Nadekko/main/yellow_banner.png" />
+</p>
+
 <h1 align="center">Ayssa Djennad</h1>
 
 <p align="center">
