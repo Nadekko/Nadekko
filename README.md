@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Nadekko/Nadekko/main/banners/r_banner.png" />
 </p> -->
 
-<h1 align="center">Ayssa Djennad</h1>
+<h1 align="center">Anyssa Djennad</h1>
 
 <p align="center">
 Graphics Programmer in Training • OpenGL • C/C++ • Real-Time Rendering
@@ -13,7 +13,7 @@ Graphics Programmer in Training • OpenGL • C/C++ • Real-Time Rendering
 ## STATUS
 
 ```yaml
-Name: Ayssa Djennad
+Name: Anyssa Djennad
 Class: Graphics Programmer
 Level: Junior
 
