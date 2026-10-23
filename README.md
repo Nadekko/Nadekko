@@ -70,7 +70,7 @@ I enjoy understanding how game engines work under the hood and building graphics
 
 ## Quest Log
 
-### So_long
+### [So_long](https://github.com/Nadekko/so_long)
 
 My very first game project.
 
@@ -79,7 +79,7 @@ My very first game project.
 - Sprite rendering
 - Map validation and pathfinding logic
 
-### Cub3D
+### [Cub3D](https://github.com/Nadekko/cub3D)
 
 Wolfenstein-inspired raycasting engine.
 
@@ -88,7 +88,7 @@ Wolfenstein-inspired raycasting engine.
 - Collision handling
 - Real-time rendering
 
-### Scop
+### [Scop](https://github.com/Nadekko/Scop)
 
 3D model viewer using modern OpenGL.
 
@@ -97,7 +97,7 @@ Wolfenstein-inspired raycasting engine.
 - MVP matrices
 - GPU rendering pipeline
 
-### Matrix
+### [Matrix](https://github.com/Nadekko/Matrix)
 
 Mathematics library built from scratch.
 
